@@ -1,0 +1,6 @@
+@Day4_Day3Refactoring_HostAddress = http://localhost:5249
+
+GET {{Day4_Day3Refactoring_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
